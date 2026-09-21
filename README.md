@@ -27,7 +27,7 @@ A simple **AND gate circuit** constructed using two switches, an LED, a resistor
 
 ![](circuit)
 
-![][image2]
+![](result-for-AND)
 
 ### **Notes**
 
